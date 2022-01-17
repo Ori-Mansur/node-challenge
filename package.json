@@ -1,0 +1,25 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "This challenge has been designed to measure your knowledge of Node.js, Express and Typescript.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ori-Mansur/node-challenge.git"
+  },
+  "author": "Ori Man",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WAY2VAT/node-challenge/issues"
+  },
+  "homepage": "https://github.com/WAY2VAT/node-challenge#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
